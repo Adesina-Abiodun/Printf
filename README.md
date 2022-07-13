@@ -1,2 +1,2 @@
 # Printf
-My Printf project on ALX
+My Printf project on ALX.
