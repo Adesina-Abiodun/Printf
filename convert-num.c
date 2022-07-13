@@ -10,8 +10,7 @@ unsigned int convert_o(va_list args, buffer_t *output,
 		unsigned char flags, int wid, int prec, unsigned char len);
 
 
- * Return: The number of bytes stored to the buffer.
- */
+
 unsigned int convert_di(va_list args, buffer_t *output,
 		unsigned char flags, int wid, int prec, unsigned char len)
 {
